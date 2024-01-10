@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" alt="MasterHead">
+  <img height="400" src="https://i.pinimg.com/originals/40/bf/50/40bf5022f099e7030c11e17e50f4b3da.png" alt="MasterHead">
 </div>
 <h1 align="center"><strong>Hi 👋, I'm Enes Pehlivan</strong></h1>  
 <h3 align="center">Passionate junior software developer with a hunger for continuous learning.</h3>  
