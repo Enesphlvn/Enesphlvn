@@ -1,4 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/73/c5/b2/73c5b2afc684e0e6bc1b9469e5120b88.png)]()
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" alt="MasterHead">
+</div>
 <h1 align="center"><strong>Hi 👋, I'm Enes Pehlivan</strong></h1>  
 <h3 align="center">Passionate junior software developer with a hunger for continuous learning.</h3>  
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"
