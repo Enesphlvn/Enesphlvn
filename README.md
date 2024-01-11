@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/40/bf/50/40bf5022f099e7030c11e17e50f4b3da.png" alt="MasterHead">
-</div>
+![githubImage](https://github.com/Enesphlvn/Enesphlvn/assets/98655108/ff3b7a1d-7729-41ad-81cc-cccbea482ab5)
+
 <h1 align="center"><strong>Hi 👋, I'm Enes Pehlivan</strong></h1>  
 <h3 align="center">Passionate junior software developer with a hunger for continuous learning.</h3>  
 <img align="right" alt="Coding" width="300" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"
